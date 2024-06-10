@@ -40,6 +40,7 @@ public class SharedData
 
 	public void setFlag(boolean flag) {
 		this.flag = flag;
+		System.out.println("dndn");
 	}
 
 }
